@@ -1,0 +1,9 @@
+client/node_modules/
+server(Node.js Backend)/backend/node_modules/
+
+server(Node.js Backend)/backend/.env
+
+client/dist/
+backend/dist/
+
+.vscode/
